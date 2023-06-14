@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **fuipara@gmail.com**
 
-- ⚡ Fun fact **After effect editor**
+- ⚡ Fun fact **I like After effect editor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
