@@ -7,13 +7,13 @@
 
      
      
-- 🔭 I’m currently working on **Responsive TailwindCSS website**
+- 🔭 I’m currently working on ***Responsive TailwindCSS website***
 
-- 🌱 I’m currently learning **TailwindCSS, BootStrap, C#(Unity)**
+- 🌱 I’m currently learning ***TailwindCSS, BootStrap, C#(Unity)***
 
 - 👨‍💻 All of my projects are available on ***GitHub***
 
-- 📫 How to reach me **fuipara@gmail.com**
+- 📫 How to reach me ***fuipara@gmail.com***
 
 - ⚡ Fun fact i like ***After effect editor***
 
