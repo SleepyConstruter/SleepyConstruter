@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TailwindCSS, BootStrap, C#(Unity)**
 
-- 👨‍💻 All of my projects are available at [N/a](N/a)
+- 👨‍💻 All of my projects are available on GitHub
 
 - 📫 How to reach me **fuipara@gmail.com**
 
