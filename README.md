@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **TailwindCSS, BootStrap, C#(Unity)**
 
-- 👨‍💻 All of my projects are available on GitHub
+- 👨‍💻 All of my projects are available on ***GitHub***
 
 - 📫 How to reach me **fuipara@gmail.com**
 
-- ⚡ Fun fact **After effect editor**
+- ⚡ Fun fact i like **After effect editor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
