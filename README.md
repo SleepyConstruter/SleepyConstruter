@@ -7,9 +7,9 @@
 
      
      
-- 🔭 I’m currently working on ***Responsive TailwindCSS website***
+- 🔭 I’m  working on ***Responsive TailwindCSS website***
 
-- 🌱 I’m currently learning ***TailwindCSS, BootStrap, C#(Unity)***
+- 🌱 I’m  learning ***TailwindCSS, BootStrap, C#(Unity)***
 
 - 👨‍💻 All of my projects are available on ***GitHub***
 
