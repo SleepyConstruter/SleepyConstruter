@@ -15,7 +15,7 @@
 
 - 📫 How to reach me ***hamtonsimoes@gmail.com***
 
-- ⚡ Fun fact i like ***After effect***
+- ⚡ Fun fact i like ***animation***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
